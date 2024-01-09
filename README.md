@@ -1,2 +1,2 @@
 # arndroth
-PowerPoint presentations and NEURON scripts
+PowerPoint presentations, papers and NEURON scripts
